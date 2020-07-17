@@ -1,0 +1,35 @@
+body {
+    background-color: #454547;
+    width: 215px;
+    height: 307px;
+}
+
+h1 {
+    text-align: center;
+    color: #f0f5ff;
+    font-family: Century Gothic, sans-serif;
+}
+
+input[type=text] {
+  margin-bottom: 5px;
+  margin-top: 1px;
+  width: 200px;
+  box-sizing: border-box;
+  border: 2px solid #454547;
+  border-radius: 4px;
+  font-size: 16px;
+  background-color: #f0f5ff;
+  padding: 12px 20px 12px 40px;
+}
+
+#middle{
+  height: 253px;
+  padding: 5px 5px 5px 5px;
+  background-color: #cedfff;
+  border-radius: 4px;
+}
+
+.container{
+  width: 100%;
+  text-align: center;
+}

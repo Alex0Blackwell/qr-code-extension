@@ -1,0 +1,12 @@
+{
+    "manifest_version": 2,
+    "name": "QR-code Converter",
+    "version": "1.1.0",
+    "permissions": [
+	"tabs"
+    ],
+    "browser_action": {
+	"default_icon": "favicon.PNG",
+	"default_popup": "website/index.html"
+    }
+}
