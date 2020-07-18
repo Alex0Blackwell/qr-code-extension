@@ -15,15 +15,15 @@ Create QR-Codes without ever leaving your website! Press the extension icon to e
 
 > Screenshot of QR-Code Converter
 
-![Screenshot](./.images/qr1.png);
+![Screenshot](./.images/qr1.png)
 
 > Transfer usernames to your phone
 
-![Screenshot](./.images/qr2.png);
+![Screenshot](./.images/qr2.png)
 
 > Transfer links to your phone
 
-![Screenshot](./.images/qr3.png);
+![Screenshot](./.images/qr3.png)
 
 ## Technologies
 - **HTML / CSS**
@@ -36,18 +36,29 @@ Create QR-Codes without ever leaving your website! Press the extension icon to e
 
 To use the extension without editing it, download the Chrome extension [here](https://chrome.google.com/webstore/detail/qr-code-generator/enjcphliddmdkmgolkmkkkdnldidhgml?hl=en-GB&authuser=0).
 
-### Edit the Code
-To edit this code and customize it yourself, the latest build on Chrome can be downloaded from [releases](https://github.com/Alex0Blackwell/qr-code-extension/releases "Go to releases").  
+To use the extension on Firefox, the extension must be added manually as shown below.
 
-Here the file can be unzipped and added to chrome by:
+### Edit the Code
+
+To edit this code and customize it yourself on Chrome, the latest build on can be downloaded from [releases](https://github.com/Alex0Blackwell/qr-code-extension/releases "Go to releases").  
+
+Here the file can be unzipped and added to **Chrome** by:
 
     Chrome: Extensions > Load unpacked > "load unzipped folder"
+
+Alternatively, the file can be unzipped and added to **Firefox** by following the steps below:
+
+1. Visit `about:debugging`
+2. Press "This Firefox"
+3. Select "Load Temporary Add-on..."
+4. Navigate to the unzipped release file
 
 Now the QR-Code Converter will run the downloaded version and it may be edited.
 
 ## Limitations
 - QR-Codes can only represent text.
 - The amount of text that can be represented by a QR-Code is limited by the size of the QR-Code itself *(1056 characters in this case)*.
+- [ ] Extension not currently available as a Firefox Add-on
 
 ## License
 Licensed under the [GNU General Public License v3.0](LICENSE).
