@@ -13,9 +13,9 @@ Create QR-Codes without ever leaving your website! Press the extension icon to e
 
 ## Examples
 
-> Screenshot of QR-Code Converter
+> Video of QR-Code Converter
 
-![Screenshot](./.images/qr1.png)
+![Screenshot](./.images/qr-code-extension.gif)
 
 > Transfer usernames to your phone
 
@@ -36,7 +36,7 @@ Create QR-Codes without ever leaving your website! Press the extension icon to e
 
 To use the extension without editing it, download the Chrome extension [here](https://chrome.google.com/webstore/detail/qr-code-generator/enjcphliddmdkmgolkmkkkdnldidhgml?hl=en-GB&authuser=0).
 
-To use the extension on Firefox, the extension must be added manually as shown below.
+Alternatively, to use the extension on Firefox, download the extension [here](https://addons.mozilla.org/en-US/firefox/addon/qr-code-converter/).
 
 ### Edit the Code
 
