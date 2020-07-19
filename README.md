@@ -58,7 +58,6 @@ Now the QR-Code Converter will run the downloaded version and it may be edited.
 ## Limitations
 - QR-Codes can only represent text.
 - The amount of text that can be represented by a QR-Code is limited by the size of the QR-Code itself *(1056 characters in this case)*.
-- [ ] Extension not currently available as a Firefox Add-on
 
 ## License
 Licensed under the [GNU General Public License v3.0](LICENSE).
